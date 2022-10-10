@@ -1,2 +1,7 @@
 # grantzeng.github.io
-Playing around with GitHub Pages + Jekyll (and hopefully ending up with an okayish portfolio website!)
+Playing around with GitHub Pages + Jekyll and hopefully ending with cooking up an okayish portfolio website 🚀 
+
+### To-dos
+- ~Figure out how to make it behave on Windows~ (DONE)
+- Run through a Jekyll tutorial 
+- Run through the GitHub Pages tutorial 
