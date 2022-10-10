@@ -1,3 +1,4 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
+remote_theme: poole/hyde
+highlighter: rouge
