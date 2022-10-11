@@ -2,7 +2,10 @@
 Playing around with GitHub Pages + Jekyll to make my first portfolio website 🚀
 
 ### To-dos
-- ~Figure out how to make it behave on Windows~ (Done; ugh, set up always takes longer than expected.) 
-- Run through a Jekyll tutorial 
-- Run through the GitHub Pages tutorial 
-- Mock up my website with the Hyde theme
+- ~Figure out how to make it behave on Windows (Done; ugh, set up always takes longer than expected.)~
+- ~Actually it wasn't done, more configging stuff locally.~ (Done.) 
+- Run through a Jekyll tutorial
+  - Install themes 
+  - How do you host on GitHub pages
+  - Write a blogpost
+- Write up my website when I've got a better hang of Jekyll properly. 
