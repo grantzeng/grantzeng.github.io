@@ -3,7 +3,7 @@ Playing around with GitHub Pages + Jekyll to make my first portfolio website ðŸš
 
 ### To-dos
 - ~Figure out how to make it behave on Windows (Done; ugh, set up always takes longer than expected.)~
-- ~Actually it wasn't done, more configging stuff locally.~ (Done.) 
+- ~Actually it wasn't done, more configging stuff locally.~ (Done. Website currently is meme quality.) 
 - Run through a Jekyll tutorial
   - Install themes 
   - How do you host on GitHub pages
