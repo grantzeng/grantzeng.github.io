@@ -1,11 +1,10 @@
-# grantzeng.github.io
-
 Hey!
 
 I’m Grant, a computer science/statistics student at UNSW.
 
-I have a frustratingly wide range of interests I’m perpetually trying to narrow down, but it all tends to circulate around things systems-related, backend or algorithmic.
-Current focus has been on improving my knowledge of the design and analysis of algorithms, and machine learning.
+I have a frustratingly wide range of interests I’m forever trying to narrow down, but it all tends to circulate around things systems-related, backend or algorithmic.
+
+My current focus has been on improving my knowledge of the design and analysis of algorithms, and machine learning.
 
 Here’s some stuff I made:
 -	[`sydney-train-game-solver`](https://github.com/grantzeng/sydney-train-game-solver)
@@ -20,15 +19,18 @@ Technologies I frequently use:
 -	SQLite
 
 Things I want to learn more about:
--	Rust | Go | C++/C | Linux
--	Systems programming: operating systems, databases, networks, compilers
+-	Rust, Go, C++/C
+-   Linux (_TO-DO_: Put Linux on a toaster)
+-	_Systems programming_: operating systems, databases, networks, compilers
 -	Cloud computing, AWS, distributed systems
--	Platform engineering, infrastructure, DevOps
--	FPGAs, digital circuits
--	Functional programming/Haskell
--	System design (TO-DO: Read ‘A Philosophy of Software Design’)
--	Informal methods (TO-DO: see Carroll Morgan’s course notes)
--	React/Typescript/frontend engineering (just enough to visualise my technical projects)
--	Maths: Stochastic processes, differential equations, probability. (ON-HOLD:  it’d mostly be for fun, but just at the moment I lack actual use-cases)
+-	Platform engineering, infrastructure
+-	FPGAs, digital circuits and design
+-	Functional programming, Haskell
+-	System design
+-	Informal methods
+-	React/Typescript/frontend engineering (just enough to visualise/make nice UIs for my technical projects)
+-	_Maths_: Stochastic processes, differential equations, probability. (only for fun; I've put this project on-hold for lack of actual use-cases.)
 
-And now for something completely different
+[And now for something completely different](https://www.youtube.com/watch?v=u0WOIwlXE9g)
+
+
