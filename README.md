@@ -27,9 +27,10 @@ Things I want to learn more about:
 -	FPGAs, digital circuits and design
 -	Functional programming, Haskell
 -	System design
--	Informal methods
+-	Informal methods (see: COMP6721)
 -	React/Typescript/frontend engineering (just enough to visualise/make nice UIs for my technical projects)
 -	_Maths_: Stochastic processes, differential equations, probability. (only for fun; I've put this project on-hold for lack of actual use-cases.)
+-  Computationally intensive aspects of machine learning/deep learning
 
 [And now for something completely different](https://www.youtube.com/watch?v=u0WOIwlXE9g)
 
