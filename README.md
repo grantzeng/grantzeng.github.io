@@ -4,7 +4,7 @@ I’m Grant, a computer science/statistics student at UNSW.
 
 I have a frustratingly wide range of interests I’m forever trying to narrow down ~~but it all tends to circulate around things systems-related, backend or algorithmic.~~. _Correction_: This is not quite correct. But yes, I am still trying to cull this list down.
 
-My current focus has been on improving my knowledge of the design and analysis of algorithms, and machine learning.
+~~My current focus has been on improving my knowledge of the design and analysis of algorithms, and machine learning.~~ (See below.)
 
 Here’s some stuff I made:
 -	[`sydney-train-game-solver`](https://github.com/grantzeng/sydney-train-game-solver)
